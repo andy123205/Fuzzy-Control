@@ -47,4 +47,19 @@ R3: if T is NM then Gas is PM
 使用Mamdani的Max-min合成法
 
 
+最後設定輸入溫度為 64 度來測試
+
+![default](https://cloud.githubusercontent.com/assets/13445632/17082477/3d9fcddc-51b2-11e6-9d6f-f0aa0fd96096.png)
+
+若溫度為 76 度來測試
+
+![default](https://cloud.githubusercontent.com/assets/13445632/17082489/8f0a8de2-51b2-11e6-8bee-6ea160ba04c0.png)
+
+若溫度為 70 度來測試
+
+
+![default](https://cloud.githubusercontent.com/assets/13445632/17082495/d38bba90-51b2-11e6-9b58-79c7960faf42.png)
+
+
+
 使範例參考此書"類神經網路控制理論入門與應用" 王進德 
