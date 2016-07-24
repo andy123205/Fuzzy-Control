@@ -23,6 +23,7 @@
 ![default](https://cloud.githubusercontent.com/assets/13445632/17082389/e4d027a4-51ae-11e6-857a-7116100a7ae2.png)
 
 2.溫度T={溫暖、適中、冷}={PM、Z、NM}
+
   瓦斯Gas={大量、適中、少量}={PM、Z、NM}
   
 3.定義歸屬函數
@@ -34,6 +35,7 @@
 ![default](https://cloud.githubusercontent.com/assets/13445632/17082450/7053d4f4-51b1-11e6-878a-e7ad9e2da4ff.png)
 
 4.建立模糊規則
+
 R1: if T is PM then Gas is NM
 
 R2: if T is Z then Gas is Z
@@ -41,6 +43,7 @@ R2: if T is Z then Gas is Z
 R3: if T is NM then Gas is PM
 
 5.模糊推論
+
 使用Mamdani的Max-min合成法
 
 
