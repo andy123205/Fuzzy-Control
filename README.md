@@ -55,7 +55,7 @@ R3: if T is NM then Gas is PM
 
 ![default](https://cloud.githubusercontent.com/assets/13445632/17082489/8f0a8de2-51b2-11e6-8bee-6ea160ba04c0.png)
 
-若溫度為 70 度來測試
+若溫度為 68 度來測試
 
 
 ![default](https://cloud.githubusercontent.com/assets/13445632/17082495/d38bba90-51b2-11e6-9b58-79c7960faf42.png)
