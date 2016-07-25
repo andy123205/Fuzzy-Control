@@ -32,7 +32,8 @@
 ![default](https://cloud.githubusercontent.com/assets/13445632/17082426/8b5b22f8-51b0-11e6-8a57-034b07747cc6.png)
 
 輸出歸屬函數
-![default](https://cloud.githubusercontent.com/assets/13445632/17082450/7053d4f4-51b1-11e6-878a-e7ad9e2da4ff.png)
+
+![default](https://cloud.githubusercontent.com/assets/13445632/17090081/662ac9b6-525f-11e6-9306-f4d71feac47a.png)
 
 4.建立模糊規則
 
